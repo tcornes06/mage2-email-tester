@@ -1,1 +1,1 @@
-# mage2-email-tester
+# Magento 2 Email Tester
